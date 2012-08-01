@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.homepage      = "https://github.com/madride/madride-with-bootstrap"
   gem.authors       = ["Aleksey V Zapparov"]
   gem.email         = ["ixti@member.fsf.org"]
-  gem.summary       = "madride-2.0.4"
+  gem.summary       = "madride-with-bootstrap-2.0.4"
   gem.description   = %q{Bootstrap plugin for madride.}
 
   gem.add_dependency "madride", "~> 1.0.0"
