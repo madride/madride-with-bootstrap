@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |gem|
   gem.name          = "madride-with-bootstrap"
-  gem.version       = "2.0.4"
+  gem.version       = "2.0.4.p1"
   gem.homepage      = "https://github.com/madride/madride-with-bootstrap"
   gem.authors       = ["Aleksey V Zapparov"]
   gem.email         = ["ixti@member.fsf.org"]
